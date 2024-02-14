@@ -1,4 +1,4 @@
-global using CliWrap;
+﻿global using CliWrap;
 global using CliWrap.Buffered;
 global using EasilyNET.Core.BaseType;
 global using EasilyNET.Core.Domains;

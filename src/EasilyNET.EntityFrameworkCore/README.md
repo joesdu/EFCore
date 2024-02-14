@@ -1,4 +1,4 @@
-##### EasilyNET.EntityFrameworkCore
+﻿##### EasilyNET.EntityFrameworkCore
 
 ## Install Package
 

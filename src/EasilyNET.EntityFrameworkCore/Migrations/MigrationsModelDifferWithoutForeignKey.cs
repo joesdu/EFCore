@@ -1,4 +1,4 @@
-// ReSharper disable ClassNeverInstantiated.Global
+﻿// ReSharper disable ClassNeverInstantiated.Global
 
 #pragma warning disable EF1001 // Internal EF Core API usage.
 

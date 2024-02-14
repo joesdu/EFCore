@@ -1,4 +1,4 @@
-using EasilyNET.SourceGenerator.Share;
+﻿using EasilyNET.SourceGenerator.Share;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
 using Microsoft.CodeAnalysis.CSharp.Syntax;

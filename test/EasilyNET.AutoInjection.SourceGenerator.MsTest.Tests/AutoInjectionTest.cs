@@ -1,4 +1,4 @@
-using EasilyNET.AutoDependencyInjection;
+﻿using EasilyNET.AutoDependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace EasilyNET.AutoInjection.SourceGenerator.MsTest.Tests;
