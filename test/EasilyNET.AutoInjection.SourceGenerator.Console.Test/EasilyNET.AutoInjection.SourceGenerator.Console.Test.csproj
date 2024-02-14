@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="EasilyNET.AutoDependencyInjection" Version="2.1.4" />
+	  <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+	</ItemGroup>
+	<PropertyGroup>
+		<InjectionName>ConsoleInjection</InjectionName>
+	</PropertyGroup>
+	<ItemGroup>
+		<CompilerVisibleProperty Include="InjectionName" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\..\src\EasilyNET.AutoInjection.SourceGenerator\EasilyNET.AutoInjection.SourceGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+	
+	</ItemGroup>
+
+</Project>
