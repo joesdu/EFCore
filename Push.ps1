@@ -1,7 +1,6 @@
 $scriptName = $MyInvocation.MyCommand.Name
 $artifacts = "./artifacts"
 
-Write-Host "${$Env:NUGET_URL}"
 if ([string]::IsNullOrEmpty($Env:NUGET_API_KEY)) {
     Write-Host "${scriptName}: NUGET_API_KEY is empty or not set. Skipped pushing package(s)."
 } else {
