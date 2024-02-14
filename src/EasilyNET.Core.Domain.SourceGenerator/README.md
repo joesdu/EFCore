@@ -1,4 +1,4 @@
-##### EasilyNET.Core.Domain.SourceGenerator
+﻿##### EasilyNET.Core.Domain.SourceGenerator
 ##### Nuget
 
 使用 Nuget 包管理工具添加依赖包 

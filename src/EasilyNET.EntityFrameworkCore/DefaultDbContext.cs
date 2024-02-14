@@ -1,4 +1,4 @@
-using EasilyNET.Core;
+﻿using EasilyNET.Core;
 using EasilyNET.Core.Abstractions;
 using EasilyNET.Core.Helpers;
 using System.Data;

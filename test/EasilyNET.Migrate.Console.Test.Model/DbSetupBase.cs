@@ -1,4 +1,4 @@
-using EasilyNET.Core.Domains;
+﻿using EasilyNET.Core.Domains;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;

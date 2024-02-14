@@ -1,4 +1,4 @@
-using EasilyNET.AutoDependencyInjection;
+﻿using EasilyNET.AutoDependencyInjection;
 using EasilyNET.Core.BaseType;
 using EasilyNET.Core.Domains;
 using EasilyNET.Core.Domains.Commands;

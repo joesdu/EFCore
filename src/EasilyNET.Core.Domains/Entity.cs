@@ -1,4 +1,4 @@
-namespace EasilyNET.Core.Domains;
+﻿namespace EasilyNET.Core.Domains;
 
 //ReSharper disable VirtualMemberNeverOverridden.Global
 //ReSharper disable MemberCanBeProtected.Global

@@ -1,4 +1,4 @@
-#### EasilyNET.AutoInjection.SourceGenerator
+﻿#### EasilyNET.AutoInjection.SourceGenerator
 
 ## Install Package
 

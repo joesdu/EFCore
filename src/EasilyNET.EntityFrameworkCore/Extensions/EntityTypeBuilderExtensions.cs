@@ -1,4 +1,4 @@
-// ReSharper disable MemberCanBePrivate.Global
+﻿// ReSharper disable MemberCanBePrivate.Global
 
 namespace EasilyNET.EntityFrameworkCore.Extensions;
 
